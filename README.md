@@ -1,5 +1,5 @@
-# webdev-market-place-for-local-services
-This project was developed in 30hr hachathon. This project aims to connect service men like(painter, electrician, etc) to connect to common users where users can book them according to desired time and day )
+# service-web-application
+This project was developed in 24hrs hachathon. This project aims to connect service men like(painter, electrician, etc) to connect to common users where users can book them according to desired time and day 
 All required javascript validations are inserted wherever needed
 
 
